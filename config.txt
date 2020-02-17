@@ -1,0 +1,6 @@
+﻿token=Njc4MjgyNDkyMTUwNTQ2NDQy.XkrAKA.8M8s8DSoKT93BnxK1kNwY9LR_tc
+owner=508283856042852393
+prefix= 1
+game= DEFAULT
+stayinchannel=true
+songinstatus=true 
